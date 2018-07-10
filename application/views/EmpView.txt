@@ -1,0 +1,28 @@
+<html>
+<form action ='#'>
+<table>
+<tr>
+<td>Emp ID:</td
+<td><input type='text' name='empid'></td>
+</tr>
+
+<tr>
+<td>Emp Name:</td
+<td><input type='text' name='empname'></td>
+</tr>
+
+<tr>
+<td>Basic Salary:</td
+<td><input type='text' name='basic'></td>
+</tr>
+
+<tr>
+<td>Grade:</td
+<td><input type='select' name='grade'>
+<option value='grade1'>Grade 1</option>
+<option value='grade2'>Grade 2</option>
+<option value='grade3'>Grade 3</option>
+</td>
+</tr>
+</form>
+<html>
